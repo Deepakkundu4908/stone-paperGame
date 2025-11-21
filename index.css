@@ -2,17 +2,12 @@
     margin:0px;
     padding:0px;
 }
-body{
-    height:600px;
-    width:100%;
-    background-color: aliceblue;
-    text-align:center; 
-}
 .container{
-    height:600px;
+    height:700px;
     width:90%;
     border:1px solid black;
     margin:5%;
+    text-align:center;
     box-shadow: 5px 5px gray;
     text-shadow: 2px 1px gray;
 }
@@ -72,3 +67,4 @@ button:hover{
     background-color: lightgray;
 
 }
+
